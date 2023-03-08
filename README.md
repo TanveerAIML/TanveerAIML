@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a passionate self taught programmer.
+I am a passionate self-taught programmer. Who loves to code
 
 <!--
 **TanveerAIML/TanveerAIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
