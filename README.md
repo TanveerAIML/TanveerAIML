@@ -1,12 +1,13 @@
 
 I love to solve complex problems related to data and always explore new technologies in order to enhance my knowledge. To gain more knowledge in data science and how machine learning and deep learning helps to make the business decision I decided to study BSc. (Hons) Computer Science (Artificial Intelligence) from the Brunel University London. It helped me to develop skills in machine learning, deep learning, predictive analytics, statistical modeling and data analytics.
 
+<br>
 Skills:
-
-Languages- R, Python, Java, JavaScript
-Databases- MySQL, Microsoft SQL
-OS- Windows
-Cloud Technologies- AWS (S3, EC2)
+<br>
+Languages- R, Python, Java, JavaScript<br>
+Databases- MySQL, Microsoft SQL<br>
+OS- Windows<br>
+Cloud Technologies- AWS (S3, EC2)<br>
 Predictive Analytics- Decision Tree, Logistic Regression, Linear Regression, K Nearest Neighbours (K-NN), Neural Network, Support Vector Machines, Naive Bayes
 
 <!--
