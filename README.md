@@ -1,5 +1,5 @@
 
-I love to solve complex problems related to data and always explore new technologies in order to enhance my knowledge. To gain more knowledge in data science and how machine learning and deep learning helps to make the business decision I decided to study BSc. (Hons) Computer Science (Artificial Intelligence) from the Brunel University London. It helped me to develop skills in machine learning, deep learning, predictive analytics, statistical modeling and data analytics.
+Computer Science graduate with specialization in Artificial Intelligence, with a passion for uncovering meaningful insights from complex data sets. Skilled in utilizing statistical technique and ML algorithms to extract valuable information and drive data-driven decision making. Committed to continuous learning and staying abreast of emerging trends in the field. A result-oriented professional seeking opportunities to apply my knowledge in transforming raw data into actionable solutions.    
 
 <br>
 Skills:
