@@ -4,8 +4,9 @@ Computer Science graduate with specialization in Artificial Intelligence, with a
 <br>
 Skills:
 <br>
-Languages- R, Python, Java, JavaScript<br>
-Databases- MySQL, Microsoft SQL<br>
+Languages- R, Python, Java, JavaScript, HTML, CSS<br>
+Databases- MySQL, Microsoft SQL, Oracle, MongoDB, Postgre SQL<br>
+Development Tools- Eclipse IDE, IntelliJ IDEA, Visual Studio Code, Pycharm, Anaconda<br>
 OS- Windows<br>
 Cloud Technologies- AWS (S3, EC2)<br>
 Predictive Analytics- Decision Tree, Logistic Regression, Linear Regression, K Nearest Neighbours (K-NN), Neural Network, Support Vector Machines, Naive Bayes
