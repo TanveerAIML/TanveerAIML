@@ -7,6 +7,8 @@ Skills:
 Languages- R, Python, Java, JavaScript, HTML, CSS<br>
 Databases- MySQL, Microsoft SQL, Oracle, MongoDB, Postgre SQL<br>
 Development Tools- Eclipse IDE, IntelliJ IDEA, Visual Studio Code, Pycharm, Anaconda<br>
+Software Tools- Jira, Kanban Board, Figma<br>
+Methodology- Agile, SCRUM, Kanban, XP, Waterfall<br>
 OS- Windows<br>
 Cloud Technologies- AWS (S3, EC2)<br>
 Predictive Analytics- Decision Tree, Logistic Regression, Linear Regression, K Nearest Neighbours (K-NN), Neural Network, Support Vector Machines, Naive Bayes
