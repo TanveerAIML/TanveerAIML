@@ -5,6 +5,12 @@
 <p align='center'>
   A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning</b> | <b>BSc. (Hons) Computer Science (Artificial Intelligence)</b> | 🎓Alumnus: Brunel University London
 </p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/tanveer-dalal-b10a621b7/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
     
 Computer Science graduate with specialization in Artificial Intelligence, with a passion for uncovering meaningful insights from complex data sets. Skilled in utilizing statistical technique and ML algorithms to extract valuable information and drive data-driven decision making. Committed to continuous learning and staying abreast of emerging trends in the field. A result-oriented professional seeking opportunities to apply my knowledge in transforming raw data into actionable solutions.    
 
