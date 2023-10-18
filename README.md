@@ -2,7 +2,10 @@
   <a href="#"><img src="https://github.com/TanveerAIML/TanveerAIML/blob/master/Tanveer-Dalal/Header1.jpg"></a>
 </p>
 
-
+<p align='center'>
+  A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning<b> | <b>BSc. (Hons) Computer Science (Artificial Intelligence)</b> | 🎓Alumnus: Brunel University London
+</p>
+    
 Computer Science graduate with specialization in Artificial Intelligence, with a passion for uncovering meaningful insights from complex data sets. Skilled in utilizing statistical technique and ML algorithms to extract valuable information and drive data-driven decision making. Committed to continuous learning and staying abreast of emerging trends in the field. A result-oriented professional seeking opportunities to apply my knowledge in transforming raw data into actionable solutions.    
 
 <br>
