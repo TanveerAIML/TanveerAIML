@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <h3>A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning</b> | <b>BSc. (Hons) Computer Science (Artificial Intelligence)</b> | 🎓Alumnus: Brunel University London</h3>
+  A <b>Data Science</b> Enthusiast | Focused on Solving real-world problem using <b>AI</b> & <b>Machine Learning</b> | <b>BSc. (Hons) Computer Science (Artificial Intelligence)</b> | 🎓Alumnus: Brunel University London
 </p>
 
 <p align='center'>
