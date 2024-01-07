@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="#"><img src="https://github.com/TanveerAIML/TanveerAIML/blob/master/Tanveer-Dalal/Header1.jpg"></a>
+  <a href="#"><img src="https://github.com/TanveerAIML/TanveerAIML/blob/master/Tanveer-Dalal/Profile Banner.jpg"></a>
 </p>
 
 <p align='center'>
